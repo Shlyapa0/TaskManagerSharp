@@ -1,0 +1,14 @@
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\bin\Debug\net9.0\TaskManagerSharp.exe
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\bin\Debug\net9.0\TaskManagerSharp.deps.json
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\bin\Debug\net9.0\TaskManagerSharp.runtimeconfig.json
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\bin\Debug\net9.0\TaskManagerSharp.dll
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\bin\Debug\net9.0\TaskManagerSharp.pdb
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\obj\Debug\net9.0\TaskManagerSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\obj\Debug\net9.0\TaskManagerSharp.AssemblyInfoInputs.cache
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\obj\Debug\net9.0\TaskManagerSharp.AssemblyInfo.cs
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\obj\Debug\net9.0\TaskManagerSharp.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\obj\Debug\net9.0\TaskManagerSharp.dll
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\obj\Debug\net9.0\refint\TaskManagerSharp.dll
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\obj\Debug\net9.0\TaskManagerSharp.pdb
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\obj\Debug\net9.0\TaskManagerSharp.genruntimeconfig.cache
+C:\Users\Vadim\Documents\C# Projects\TaskManager\TaskManagerSharp\obj\Debug\net9.0\ref\TaskManagerSharp.dll
