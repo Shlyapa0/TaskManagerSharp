@@ -34,10 +34,14 @@ namespace ProcessList
                             {
                                 string processName = string.Join(" ", parts.Skip(1)); // Handles process names with spaces
                                 List<int> specificProcessIds = GetProcessIdsByName(processName);
+                                if (specificProcessIds.Count == 0)
+                                {
+                                   specificProcessIds = GetProcessIdsByPath(processName);
+                                }
 
                                 if (specificProcessIds.Count == 0)
                                 {
-                                    Console.WriteLine($"No processes found with the name '{processName}'.");
+                                    Console.WriteLine($"No processes found with the name or path '{processName}'.");
                                 }
                                 else
                                 {
